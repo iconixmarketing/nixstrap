@@ -1,0 +1,57 @@
+/*
+Theme Name: Nixstrap
+Theme URI: https://www.linkedin.com/in/derrickdedmon
+Author: Derrick Dedmon
+Author URI: https://www.linkedin.com/in/derrickdedmon
+Description: Nixstrap is a Multi-Purpose Premium WordPress Theme. Nixstrap is built on the Twitter Bootstrap 4 framework for maximum responsiveness.
+Version: 1.122
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: left-sidebar, right-sidebar, fluid-layout, custom-header, custom-menu, editor-style, featured-images, microformats, post-formats, rtl-language-support, translation-ready
+Text Domain: nixstrap
+*/
+
+/* Any styles you write here will override the defaults */
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i');
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    line-height: 1.20;
+    opacity: 1.00;
+    letter-spacing: -0.80px;
+    word-spacing: 0.00px;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    line-height: 1.20;
+    opacity: 1.00;
+    letter-spacing: -0.70px;
+    word-spacing: 0.00px;
+    text-transform: none;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    line-height: 1.20;
+    opacity: 1.00;
+    letter-spacing: -0.30px;
+    word-spacing: 0.00px;
+    text-transform: uppercase;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    line-height: 1.60;
+    opacity: 1.00;
+    letter-spacing: 0.00px;
+    word-spacing: 0.00px;
+    text-transform: none;
+}
